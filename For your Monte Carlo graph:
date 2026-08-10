@@ -1,0 +1,2 @@
+plt.savefig("hedged_vs_unhedged.png", dpi=300, bbox_inches="tight")
+plt.show()
